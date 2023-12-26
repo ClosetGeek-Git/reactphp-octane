@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/octane"><img src="https://img.shields.io/packagist/l/laravel/octane" alt="License"></a>
 </p>
 
+## Proof of concept
+Test bed for adding ReactPHP to Laravel Octane
+
 ## Introduction
 
 Laravel Octane supercharges your application's performance by serving your application using high-powered application servers, including [FrankenPHP](https://frankenphp.dev), [Open Swoole](https://openswoole.com), [Swoole](https://github.com/swoole/swoole-src), and [RoadRunner](https://roadrunner.dev). Octane boots your application once, keeps it in memory, and then feeds it requests at supersonic speeds.
